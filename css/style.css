@@ -1,0 +1,38 @@
+body{
+    background-color: #24353f;
+}
+
+.form{
+    padding: 25px;
+    background-color: #24353f;
+    border: none;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+    
+}
+
+.navbar{
+    background-color: transparent !important;
+}
+
+.group {
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+
+.wel{
+    margin-top: 120px !important;
+}
+
+.btn{
+    transition: all 1s;
+}
+
+.btn:hover{
+    color: #fff;
+}
+
+input{
+    font-size: 15px !important;
+}
+::placeholder {
+    color: #ddd !important;
+}
